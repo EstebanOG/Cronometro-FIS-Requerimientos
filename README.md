@@ -82,7 +82,7 @@ Definición del alcance del proyecto
 > Diagrama de clases contador tiempo.
 
 #### Guardar
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/Diagrama%20de%20clases.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/Diagrama%20de%20Clases%20-%20Guardar%20y%20consultar%20memoria.jpg)
 > Diagrama de clases para guardar en memoria (patrón memento).
 
 
