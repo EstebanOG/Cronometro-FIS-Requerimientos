@@ -2,6 +2,7 @@
 Cronómetro desarrollado para la clase de FUNDAMENTOS DE INGENIERIA DE SOFTWARE Gr020-81
 
 ## Contenidos
+
 + Diagrama de Casos de Uso
 + Diagrama de actividades
 + Diagrama de clases
@@ -16,7 +17,7 @@ Definición del alcance del proyecto
 
  El alcance del Proyecto inicialmente sera creado  para clase de fundamentos de ingenieria de software para realizar un analisis de costos y de seguimiento de un proyecto
 
-## Diagrama de Casos de Uso
+## Diagrama de casos de uso
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/caso%20de%20uso%20.jpg)
 > Diagrama de casos de uso.
 
@@ -69,7 +70,18 @@ Definición del alcance del proyecto
 
 #### Actividad: Consultar memoria
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/Actividad%20-%20Consultar%20memoria.jpg)
-> Diagrama deconsultar en memoria.
+> Diagrama de consultar en memoria.
+
+
+
+## Diagrama de clases
+
+
+## Diagrama de flujo
+
+
+## Tablas de requerimientos
+
 
 
 #### Equipo de trabajo
