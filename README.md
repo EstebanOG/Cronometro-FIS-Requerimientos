@@ -6,7 +6,8 @@ Cronómetro desarrollado para la clase de FUNDAMENTOS DE INGENIERIA DE SOFTWARE 
 + Diagrama de Casos de Uso
 + Diagrama de actividades
 + Diagrama de clases
-+ diagrama de flujo
++ Diagrama de flujo
++ Diagrama de secuencia
 + Tablas de requerimientos
 
 # Inicio
@@ -76,8 +77,31 @@ Definición del alcance del proyecto
 
 ## Diagrama de clases
 
+#### Contador tiempo
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/Diagrama%20de%20clases.jpg)
+> Diagrama de clases contador tiempo.
+
+#### Guardar
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/Diagrama%20de%20clases.jpg)
+> Diagrama de clases para guardar en memoria (patrón memento).
+
 
 ## Diagrama de flujo
+
+#### Flujo: avanzar cronómetro
+![]()
+> Diagrama de guardar en memoria.
+
+#### Flujo: Recetear memoria
+![]()
+> Diagrama de guardar en memoria.
+
+#### Flujo: Guardar memoria
+![]()
+> Diagrama de guardar en memoria.
+
+
+## Diagrama de secuencia
 
 
 ## Tablas de requerimientos
