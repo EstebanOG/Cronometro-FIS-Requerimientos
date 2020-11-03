@@ -26,7 +26,7 @@ Definición del alcance del proyecto
 ## Diagrama de actividades
 
 #### Actividad: Iniciar cronómetro
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/iniciar%20cronometro.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/actividades%20iniciar%20cronometro.jpg)
 > Diagrama de iniciar Cronómetro.
 
 #### Actividad: Parar cronómetro
@@ -119,24 +119,23 @@ Definición del alcance del proyecto
 
 ## Diagrama de secuencia
 
-#### Secuencia: Avanzar Unidad  de Tiempo
+#### Secuencia: Avanzar Cronometro y Unidad y Unidad de Tiempo
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceAvanzarUnidadTiempo.jpg)
-#### Secuencia: Avanzar Cronometro
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceAvanzarCronometro.jpg)
-> Diagramas de reiniciar temporizador.
+> Diagramas de iniciar el cronometro.
 
 #### Secuencia: Parar Cronometro_Temporizador
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequencePararCronometro!temporizador.jpg)
+> Diagramas de parar el cronometro y el temporizador.
 
 #### Secuencia: Pausar Cronometro_Temporizador
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequencePausarCronometro!Temporizador.jpg)
+> Diagramas de pausar el cronometro y el temporizador..
 
-
-#### Secuencia:Reiniciar Unidad de Tiempo
+#### Secuencia: Reiniciar Cronometro y Unidad y Unidad de Tiempo
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceUnidadTiempo.jpg)
-#### Secuencia:Reiniciar cronometro
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceReiniciarCronometro.jpg)
-> Diagramas de reiniciar temporizador.
+> Diagramas de reiniciar el Cronometro.
 
 
 #### Secuencia: Iniciar temporizador
