@@ -137,7 +137,6 @@ Definición del alcance del proyecto
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceReiniciarCronometro.jpg)
 > Diagramas de reiniciar el Cronometro.
 
-
 #### Secuencia: Iniciar temporizador
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20RetrocederTemporizador1.jpg)
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20RetrocederTemporizador2.jpg)
@@ -153,12 +152,19 @@ Definición del alcance del proyecto
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20ReiniciarTemporizador2.jpg)
 > Diagramas de reiniciar temporizador.
 
+#### Secuencia: Guardar en memoria
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceGuardarMemoria.jpg)
+> Diagramas de guardar en memoria.
 
+#### Secuencia: Consultar memoria
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceMostrarMemoria.jpg)
+> Diagramas de mostrar registros.
 
 
 ## Tablas de requerimientos
 
-### Link documento con las tablas de requerimientos:https://docs.google.com/spreadsheets/d/1lGixgnLUbKQCBlyZ7toysAzraHfAkgwtCkdflzotY4w/edit#gid=1153331102
+Link documento con las tablas de requerimientos: ![Excel](https://docs.google.com/spreadsheets/d/1lGixgnLUbKQCBlyZ7toysAzraHfAkgwtCkdflzotY4w/edit#gid=1153331102)
+
 
 #### Equipo de trabajo
 
