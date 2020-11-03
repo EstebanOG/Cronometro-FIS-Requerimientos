@@ -158,7 +158,7 @@ Definición del alcance del proyecto
 
 ## Tablas de requerimientos
 
-
+### Link documento con las tablas de requerimientos:https://docs.google.com/spreadsheets/d/1lGixgnLUbKQCBlyZ7toysAzraHfAkgwtCkdflzotY4w/edit#gid=1153331102
 
 #### Equipo de trabajo
 
