@@ -26,51 +26,51 @@ Definición del alcance del proyecto
 ## Diagrama de actividades
 
 #### Actividad: Iniciar cronómetro
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/iniciar%20cronometro.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/iniciar%20cronometro.jpg)
 > Diagrama de iniciar Cronómetro.
 
 #### Actividad: Parar cronómetro
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/Actividad%20parar%20cronometro!temporizador.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/Actividad%20parar%20cronometro!temporizador.jpg)
 > Diagrama de parar Cronómetro.
 
 #### Actividad: Reiniciar cronómetro
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/Actividad%20Reiniciar%20cronometro.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/Actividad%20Reiniciar%20cronometro.jpg)
 > Diagrama de reiniciar Cronómetro.
 
 #### Actividad: Pausar cronómetro
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividad%20Pausar%20cronometro!temporizador.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/actividad%20Pausar%20cronometro!temporizador.jpg)
 > Diagrama de pausar Cronómetro.
 
 #### Actividad: Establecer Tiempo
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/Actividades%20establecer%20tiempo.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/Actividades%20establecer%20tiempo.jpg)
 > Diagrama de establecer tiempo.
 
 #### Actividad: Iniciar temporizador
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/iniciar%20cronometro.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/iniciar%20cronometro.jpg)
 > Diagrama de iniciar temporizador.
 
 #### Actividad: Pausar temporizador
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividad%20Pausar%20cronometro!temporizador.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/actividad%20Pausar%20cronometro!temporizador.jpg)
 > Diagrama de pausar temporizador.
 
 #### Actividad: Retroceder temporizador
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/Actividades%20retroceder%20temporizador.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/Actividades%20retroceder%20temporizador.jpg)
 > Diagrama de retroceder temporizador.
 
 #### Actividad: Reiniciar temporizador
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/Actividades%20reiniciar%20temporizador.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/Actividades%20reiniciar%20temporizador.jpg)
 > Diagrama de reiniciar temporiador.
 
 #### Actividad: Pausar temporizador
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividad%20Pausar%20cronometro!temporizador.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/actividad%20Pausar%20cronometro!temporizador.jpg)
 > Diagrama de pausar temporizador.
 
 #### Actividad: Guardar memoria
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/Actividad%20-%20Guardar%20memoria.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/Actividad%20-%20Guardar%20memoria.jpg)
 > Diagrama de guardar en memoria.
 
 #### Actividad: Consultar memoria
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/Actividad%20-%20Consultar%20memoria.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/actividades/Actividad%20-%20Consultar%20memoria.jpg)
 > Diagrama de consultar en memoria.
 
 
@@ -88,16 +88,32 @@ Definición del alcance del proyecto
 
 ## Diagrama de flujo
 
-#### Flujo: avanzar cronómetro
-![]()
-> Diagrama de guardar en memoria.
+#### Flujo: Iniciar cronómetro
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/flujo/DFDIniciar%20Cronometro.jpg)
+> Diagrama de iniciar cronometro.
 
-#### Flujo: Recetear memoria
-![]()
-> Diagrama de guardar en memoria.
+#### Flujo: Establecer tiempo
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/flujo/DFD%20Establecer%20tiempo.jpg)
+> Diagrama de establecer tiempo.
+
+#### Flujo: Retroceder temporizador
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/flujo/DFD%20Retroceder%20temporizador.jpg)
+> Diagrama de retroceder temporizador.
+
+#### Flujo: Parar cronometro/temporizador
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/flujo/DFDParar%20Cronometro_Temporizador.jpg)
+> Diagrama de parar cronometro/temporizador.
+
+#### Flujo: Pausar cronometro/temporizador
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/flujo/DFDPausar%20Cronometro_Temporizador.jpg)
+> Diagrama de pausar cronometro/temporizador.
+
+#### Flujo: Reiniciar cronometro/temporizador
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/flujo/DFD%20Reiniciar%20cronometro_temporizador.jpg)
+> Diagrama de reiniciar cronometro/temporizador.
 
 #### Flujo: Guardar memoria
-![]()
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/flujo/DFDGuardar%20y%20consultar.jpg)
 > Diagrama de guardar en memoria.
 
 
