@@ -119,6 +119,26 @@ Definición del alcance del proyecto
 
 ## Diagrama de secuencia
 
+#### Secuencia: Avanzar Unidad  de Tiempo
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceAvanzarUnidadTiempo.jpg)
+#### Secuencia: Avanzar Cronometro
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceAvanzarCronometro.jpg)
+> Diagramas de reiniciar temporizador.
+
+#### Secuencia: Parar Cronometro_Temporizador
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequencePararCronometro!temporizador.jpg)
+
+#### Secuencia: Pausar Cronometro_Temporizador
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequencePausarCronometro!Temporizador.jpg)
+
+
+#### Secuencia:Reiniciar Unidad de Tiempo
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceUnidadTiempo.jpg)
+#### Secuencia:Reiniciar cronometro
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceReiniciarCronometro.jpg)
+> Diagramas de reiniciar temporizador.
+
+
 #### Secuencia: Iniciar temporizador
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20RetrocederTemporizador1.jpg)
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20RetrocederTemporizador2.jpg)
@@ -133,6 +153,8 @@ Definición del alcance del proyecto
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20Reiniciar%20Temporizador1.jpg)
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20ReiniciarTemporizador2.jpg)
 > Diagramas de reiniciar temporizador.
+
+
 
 
 ## Tablas de requerimientos
