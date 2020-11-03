@@ -126,7 +126,7 @@ Definición del alcance del proyecto
 
 #### Secuencia: Establecer tiempo
 ![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20EstablecerTiempo1.jpg)
-![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20EstablecerTiempo2.jpg
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20EstablecerTiempo2.jpg)
 > Diagramas de establecer tiempo.
 
 #### Secuencia: Reiniciar temporizador
