@@ -119,6 +119,21 @@ Definición del alcance del proyecto
 
 ## Diagrama de secuencia
 
+#### Secuencia: Iniciar temporizador
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20RetrocederTemporizador1.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20RetrocederTemporizador2.jpg)
+> Diagramas de iniciar temporizador.
+
+#### Secuencia: Establecer tiempo
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20EstablecerTiempo1.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20EstablecerTiempo2.jpg
+> Diagramas de establecer tiempo.
+
+#### Secuencia: Reiniciar temporizador
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20Reiniciar%20Temporizador1.jpg)
+![](https://github.com/YarlinWare/Cronometro-FIS-Requerimientos/blob/main/IMG/secuencias/SequenceDiagram%20ReiniciarTemporizador2.jpg)
+> Diagramas de reiniciar temporizador.
+
 
 ## Tablas de requerimientos
 
